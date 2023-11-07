@@ -21,7 +21,7 @@ In this repository, we provide a comprehensive guide in multiple phases for perf
 
 ## Phases
 
-### Phase 1 - [Document 1: ADS_Phase1]
+### Phase 1 - [Document 1: AI_Phase.docx]
  
 ### Phase 2 - [Document 2: ADS_Phase2]
 
