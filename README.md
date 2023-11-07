@@ -23,7 +23,7 @@ In this repository, we provide a comprehensive guide in multiple phases for perf
 
 ### Phase 1 - [AI_Phase.docx](#AI_Phase.docx)
  
-### Phase 2 - [Document 2: ADS_Phase2](#ADS_Phase2)
+### Phase 2 - [Document 2: ADS_Phase2](#https://github.com/koguls/customer_segmentation/tree/main/ADS_Phase2
 
 ### Phase 3 - [Document 3: ADS_Phase3]
 
